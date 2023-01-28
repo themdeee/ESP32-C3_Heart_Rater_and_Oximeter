@@ -1,0 +1,1 @@
+ [SCH_ESP32-C3_Heart_Rater_and_Oximeter.json](SCH_ESP32-C3_Heart_Rater_and_Oximeter.json) 和 [PCB_ESP32-C3_Heart_Rater_and_Oximeter.json](PCB_ESP32-C3_Heart_Rater_and_Oximeter.json) 请使用[嘉立创EDA](https://lceda.cn/)打开
